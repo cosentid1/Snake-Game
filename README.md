@@ -10,7 +10,7 @@ This project attemtped to use the principles of a finite state machine and objec
 3) Player: Tracks the user's input and changes the snake's direction accordingly. Also checks for collision.
 4) Project: Draws the game board and acts as the finite state machine and controls the flow of the game.
 
-###Key Algorithms
+### Key Algorithms
 Movement Algorithm: Updates the snake’s position based on its current direction, adjusts the position of the body segments, and handles growth when food is consumed.
 
 Collision Detection: Determines if the snake’s head intersects with any part of its body or the game board’s boundaries, signaling the end of the game.
