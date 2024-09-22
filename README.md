@@ -1,6 +1,6 @@
 # Snake-Game
 
-This project is a recreation of the classic snake arcade game. The player controls a snake that grows longer as it consumes food. The game ends if the snake collides itself. The game's code was written in C++.
+This project is a redesign of the classic snake arcade game. The player controls a snake that grows longer as it consumes food. The game ends if the snake collides itself. The game's code was written in C++.
 
 ## Design Overview
 This project attemtped to use the principles of a finite state machine and object orioneted programming to make the code as efficient as possible. There are many different files found within this project to help with code organization:
